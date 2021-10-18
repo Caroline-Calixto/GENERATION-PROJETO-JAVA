@@ -1,6 +1,6 @@
 # ProjetoBlocoI
 
-![Manjarva Logotipo](https://drive.google.com/file/d/1OrESYVyXs8RP2qeUou2ft8775aQi6z48/view?usp=sharing)
+![Manjarva Logotipo](https://drive.google.com/file/d/13YXbw27uH7NFBo3jjhZm0fEvIx63ouyW/view?usp=sharing)
 
 
 ## Com o objetivo de promover uma vida mais saudavel, desenvolvemos o produto MANJARVA para auxiliar aqueles que buscam um estilo de vida mais saudavel.
