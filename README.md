@@ -1,6 +1,4 @@
-# ProjetoBlocoI
-
-![Manjarva Logotipo](https://drive.google.com/file/d/13YXbw27uH7NFBo3jjhZm0fEvIx63ouyW/view?usp=sharing)
+# Projeto do bloco I do Bootcamp de Java da Generation Brasil
 
 
 ## Com o objetivo de promover uma vida mais saudavel, desenvolvemos o produto MANJARVA para auxiliar aqueles que buscam um estilo de vida mais saudavel.
